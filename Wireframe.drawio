@@ -7,8 +7,140 @@
         <mxCell id="Wi4N-wWyvAdIUx827yLy-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="780" height="780" as="geometry" />
         </mxCell>
-        <mxCell id="Wi4N-wWyvAdIUx827yLy-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="680" height="60" as="geometry" />
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-2" value="Search Bar: search by superhero name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-3" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-5" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="510" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-6" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-7" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="640" y="510" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-8" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="630" y="330" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-9" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-10" value="HOME PAGE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="85" y="40" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-16" value="HOME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-18" value="VILLAINS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-19" value="HEROES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="770" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-21" value="HERO DETAILS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="890" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-22" value="IMAGE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1010" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-23" value="POWERSTATS&lt;div&gt;&lt;ul&gt;&lt;li&gt;INTEL&lt;/li&gt;&lt;li&gt;STRENGTH&lt;/li&gt;&lt;li&gt;SPEED&lt;/li&gt;&lt;li&gt;DURABILITY&lt;/li&gt;&lt;li&gt;POWER&lt;/li&gt;&lt;li&gt;COMBAT&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1020" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-24" value="APPEARANCE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1270" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-25" value="BIOGRAPHY" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1360" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-26" value="CONNECTIONS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1260" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="890" y="890" width="780" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-28" value="Search Bar: search by superhero name IF ALIGNMENT === BAD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1060" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-29" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1190" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-30" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1360" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-31" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1360" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-32" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1360" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-33" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="1180" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-34" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="1180" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-35" value="VILLAINS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="935" y="890" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="940" y="950" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-37" value="HOME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-38" value="VILLAINS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-39" value="HEROES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="865" y="60" width="780" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-41" value="Search Bar: search by superhero name IF ALGNMENT === GOOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="915" y="230" width="680" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-42" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="945" y="360" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-43" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="945" y="530" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-44" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="530" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-45" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1465" y="530" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-46" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1455" y="350" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-47" value="Superhero card&lt;div&gt;&lt;ul&gt;&lt;li&gt;name&lt;/li&gt;&lt;li&gt;picture&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1185" y="350" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-48" value="HEROES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="910" y="60" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="915" y="120" width="690" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-50" value="HOME" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-51" value="VILLAINS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1445" y="130" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wi4N-wWyvAdIUx827yLy-52" value="HEROES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="130" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
