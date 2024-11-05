@@ -5,14 +5,12 @@ import styled from 'styled-components';
 export default function SearchBar({searchName, setSearchName}) {
   const handleSearchChange = (name) => setSearchName(name);
   return (
-    
        <SearchInput
         type="text"
         placeholder="Search by hero name..."
         value={searchName}
-      onChange={(name) => handleSearchChange(name.target.value)}
+      onChange={(text) => handleSearchChange(text.target.value)}
       />
-  
   )
 }
 

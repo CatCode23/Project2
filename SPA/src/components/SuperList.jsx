@@ -3,11 +3,21 @@ import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 
 
-export default function SuperList({filteredSupers}) {
+export default function SuperList({filteredSupers, filter}) {
+
+  const filteredHeroes = filteredSupers.filter((superhero) => {
+    if (filter === 'good'){ 
+      return superhero.biography.alignment === 'good'
+    }else if (filter === 'bad'){ 
+      return superhero.biography.alignment === 'bad'
+    }else{
+    return true;
+    }
+  });
   return (
     <Container>
       <ListContainer>
-        {filteredSupers.map((superhero) => (
+        {filteredHeroes.map((superhero) => (
         <StyledLink key={superhero.id} to ={`/details/${superhero.id}`}>
           <Card>
             <Image src={superhero.images.sm} alt={superhero.name}/>
@@ -23,9 +33,6 @@ export default function SuperList({filteredSupers}) {
 const Container = styled.div`
 text-align: center;
 padding: 20px; 
-  background-image: url('/images/background.jpg'); 
-  background-size: contain;
-  
 `;
 const ListContainer = styled.div`
   display: flex;

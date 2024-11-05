@@ -159,12 +159,3 @@ const AppearanceCard = styled(Card)`
 const BiographyCard = styled(Card)`
   grid-area: biography;
 `;
-
-
-
-
-
-
-
-
-

@@ -4,9 +4,8 @@ import SuperList from "./components/SuperList.jsx";
 import SearchBar from "./components/SearchBar";
 import Navbar from "./components/Navbar";
 import HeroDetails from "./components/HeroDetails";
-import HeroList from "./components/HeroList";
-import VillainList from "./components/VillainList";
 import HeroContext from "./components/HeroContext";
+import GlobalStyle from './components/GlobalStyle';
 
 function App() {
   const [supers, setSupers] = useState([]);
@@ -30,6 +29,7 @@ function App() {
   } else {
     return (
       <>
+        <GlobalStyle />
         <HeroContext.Provider value={value}>
           <Navbar />
           {location.pathname.includes("/details/") ? null : (
@@ -38,11 +38,11 @@ function App() {
           <Routes>
             <Route
               path="/Heroes"
-              element={<HeroList filteredSupers={filteredSupers} />}
+              element={<SuperList filteredSupers={filteredSupers} filter="good"/>}
             />
             <Route
               path="/Villains"
-              element={<VillainList filteredSupers={filteredSupers} />}
+              element={<SuperList filteredSupers={filteredSupers} filter="bad"/>}
             />
             <Route
               path="/"
