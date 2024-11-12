@@ -1,16 +1,15 @@
 import { describe, it, expect } from "vitest";
-import { BrowserRouter } from "react-router-dom";
-import { render, screen, fireEvent, waitFor } from "@testing-library/react";
+import { MemoryRouter } from "react-router-dom";
+import { render, screen, fireEvent} from "@testing-library/react";
 import App from "../App";
 import SearchBar from "../components/SearchBar";
-import SuperList from "../components/SuperList";
 
 describe("App", () => {
   it("renders the App component", () => {
     render(
-      <BrowserRouter>
+      <MemoryRouter>
         <App />
-      </BrowserRouter>
+      </MemoryRouter>
     );
 
     // screen.debug();

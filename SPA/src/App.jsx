@@ -1,4 +1,4 @@
-import { useState, useEffect, createContext } from "react";
+import { useState, useEffect } from "react";
 import { Routes, Route, Navigate, useLocation } from "react-router-dom";
 import SuperList from "./components/SuperList.jsx";
 import SearchBar from "./components/SearchBar";
@@ -16,10 +16,16 @@ function App() {
   useEffect(() => {
     fetch("https://akabab.github.io/superhero-api/api/all.json")
       .then((response) => response.json())
-      .then((data) => setSupers(data));
-  }, []);
+      .then((data) => {
+        //reset the IDs so there aren't gaps. Drops from 731 -> 563
+        const NewIds = data.map((hero, index) => ({
+          ...hero,
+          id: index + 1, 
+        }));
+        setSupers(NewIds);
+      });
+    }, []);
 
-  //filters heros based on matching characters typed into search bar and found in superhero name
   const filteredSupers = supers.filter((superhero) =>
     superhero.name.toLowerCase().includes(searchName.toLowerCase())
   );
@@ -37,17 +43,11 @@ function App() {
           )}
           <Routes>
             <Route
-              path="/Heroes"
-              element={<SuperList filteredSupers={filteredSupers} filter="good"/>}
-            />
+              path="/Heroes" element={<SuperList filteredSupers={filteredSupers} filter="good"/>}/>
             <Route
-              path="/Villains"
-              element={<SuperList filteredSupers={filteredSupers} filter="bad"/>}
-            />
+              path="/Villains" element={<SuperList filteredSupers={filteredSupers} filter="bad"/>}/>
             <Route
-              path="/"
-              element={<SuperList filteredSupers={filteredSupers} />}
-            />
+              path="/" element={<SuperList filteredSupers={filteredSupers} />}/>
             <Route path="/details/:id" element={<HeroDetails />} />
             <Route path="*" element={<Navigate to="/" />} />
           </Routes>
